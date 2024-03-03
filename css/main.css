@@ -38,5 +38,22 @@ header img{
     margin-right: auto;
     margin-top: 2cm;
     border-radius: 16px;
+}
 
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: #04AA6D;
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.text{
+    padding-left: 2cm;
+    padding-right: 2cm;
 }
